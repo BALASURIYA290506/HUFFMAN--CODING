@@ -25,13 +25,13 @@ print the characters and its huffmancode.
 
 ## Program:
 
-**Developed by :**  CHITHRADHEEP R
+**Developed by :**  M BALASURIYA
 
-**Register no  :**  2305002003
+**Register no  :**  212224240021
 
 ``` python
 # Step 1: Get the input string
-input_string = "huffman coding"  # Example input string
+input_string = "BALASURIYA"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
@@ -78,7 +78,8 @@ for char, code in huffman_codes.items():
 ### Print the characters and their Huffman code:
 
 
-<img width="358" height="313" alt="image" src="https://github.com/user-attachments/assets/6401b53c-d375-405b-a0e6-3f526ce879a8" />
+<img width="205" height="187" alt="image" src="https://github.com/user-attachments/assets/3b6e323b-610a-4952-9dc1-ba7024574b54" />
+
 
 
 ## Result:
